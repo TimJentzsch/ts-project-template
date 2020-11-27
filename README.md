@@ -26,11 +26,13 @@ This project is a template for TypeScript projects to make the setup easier.
     git init
     ```
 
-4. Install the dependencies
+4. Install the dependencies:
 
     ```
     yarn install
     ```
+
+5. Adjust the metadata in `package.json` and `LICENSE`.
 
 ## Tools
 
