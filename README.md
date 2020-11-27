@@ -4,15 +4,33 @@ This project is a template for TypeScript projects to make the setup easier.
 
 ## Usage
 
-Prerequisites: node.js and yarn
+1. Make sure you have the prerequisites installed. You need node.js and yarn.
 
-First, clone the repository: TBD
+2. Clone the repository:
 
-Then, initialize the project:
+    HTTPS:
 
-```
-yarn install && git init
-```
+    ```
+    git clone https://github.com/TimJentzsch/ts-project-template.git
+    ```
+
+    SSH:
+
+    ```
+    git clone git@github.com:TimJentzsch/ts-project-template.git
+    ```
+
+3. Remove the `.git` folder and start a new git repository:
+
+    ```
+    git init
+    ```
+
+4. Install the dependencies
+
+    ```
+    yarn install
+    ```
 
 ## Tools
 
