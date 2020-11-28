@@ -44,6 +44,7 @@ This project configures the following tools:
 - eslint (linting)
 - prettier (formatting)
 - jest (testing)
+- husky (pre-commit/push hooks)
 
 ## Scripts
 
