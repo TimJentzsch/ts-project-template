@@ -45,6 +45,7 @@ This project configures the following tools:
 - prettier (formatting)
 - jest (testing)
 - husky (pre-commit/push hooks)
+- winston (logging)
 
 ## Scripts
 
